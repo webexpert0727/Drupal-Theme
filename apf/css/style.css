@@ -1095,11 +1095,12 @@ font-family: 'DINEngschriftStd';
 }
 
 .news-letters h1 {
-  font-weight: bold;
-font-family: 'DINEngschriftStd';
-text-transform: uppercase;
-font-size: 56px;
+    
+    font-family: 'DINEngschriftStd';
+    text-transform: uppercase;
+    font-size: 64px;
     padding-bottom: 48px;
+    color: #000000;
 }
 .news-letters p {
  padding-bottom: 15px;
@@ -1111,6 +1112,7 @@ margin-bottom: 15px;
  list-style-type: none;
 margin-left: -40px;
 }
+.Quarters li a{font-size:13px; color:#000; text-decoration:none;font-family: 'HelveticaNeueLTStd-Lt';}
 .Quarters {
 margin-top: 10px;
 margin-bottom: 30px;
@@ -1144,6 +1146,7 @@ border-top: 8px solid #385e9d;
 padding-top: 30px;
     padding-bottom: 30px;
 font-family: 'HelveticaNeueLTStd-Lt';
+    color: #000;
 }
 
 
@@ -1237,7 +1240,11 @@ border-top: 8px solid #385e9d;
     margin-top: 30px;
 }
 
-
+a.news-read-more {
+    color: #ef3340;
+    font-size: 12px;
+	font-family: 'HelveticaNeueLTStd-Lt';
+}
 
 /*************NEWS-PAGES-END-HERE*************/
 
@@ -1319,6 +1326,9 @@ div.section > div > input {
     }
 .shadow-jumpers-1 p { padding-bottom: 30px;= font-family: 'HelveticaNeueLTStd-Lt';}
 .product-front-inner{    margin-bottom: 50px;}
+.acute-poly a {
+    text-decoration: none;
+}
 .er-kit { border-top: 8px solid #385e9d;    margin-top: 60px;}
 .er-kit img {width: 100%;}
 .er-kit h4 { margin-bottom: 10px; padding-top: 5px; padding-bottom: 40px; text-transform: uppercase;font-weight: bold;
@@ -1359,6 +1369,43 @@ div.section > div > input {
     background-repeat: no-repeat;
     bottom: 0;
 }
+
+button.btn.btn-default.one-number.btn-number {
+    border: 0px;
+}
+button.btn.btn-default.two-number.btn-number {
+    border: 0px;
+    background-color: transparent;
+    box-shadow: none;
+}
+.input-group .form-control {
+    position: relative;
+    z-index: 2;
+    float: left;
+    width: 100%;
+    margin-bottom: 0;
+    text-align: center;
+}
+
+:focus {
+    outline: none !important;
+}
+.add-left .btn.focus, .btn-default:hover {
+    color: #333;
+    background-color: transparent;
+    border-color: #adadad;
+    box-shadow: none;
+}
+.add-left .btn-default.active.focus, .btn-default.active:focus, .btn-default.active:hover, .btn-default:active.focus, .btn-default:active:focus, .btn-default:active:hover, .open>.dropdown-toggle.btn-default.focus, .open>.dropdown-toggle.btn-default:focus, .open>.dropdown-toggle.btn-default:hover {
+    color: #333;
+    background-color: transparent !important;
+    border-color: #8c8c8c;
+}
+
+.add-left .btn-default {
+    color: #333;
+    background-color: transparent !important;
+    /* border-color: #ccc; */
 }
 /*************PRODUCT-FRONT-PAGES-END-HERE*************/
 

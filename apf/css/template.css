@@ -3,6 +3,69 @@ body{
     padding:0px; margin:0px;
     overflow-x: hidden;
 }
+
+
+h1, h2, h3, h4, h5, h6, p{margin:0px;}
+
+
+@font-face {
+  font-family: 'HelveticaNeue-Roman';
+  src: url('.../fonts/HelveticaNeue-Roman.eot') format('embedded-opentype');
+   src: url('../fonts/HelveticaNeue-Roman.ttf')  format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+
+
+
+@font-face {
+  font-family: 'DINEngschriftStd';
+  src: url('../fonts/DINEngschriftStd.eot') format('embedded-opentype');
+  src: url('../fonts/DINEngschriftStd.ttf')  format('truetype');
+  
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+
+@font-face {
+  font-family: 'HelveticaNeueLTStd-Bd';
+  src: url('../fonts/HelveticaNeueLTStd-Bd.eot') format('embedded-opentype');
+  src: url('../fonts/HelveticaNeueLTStd-Bd.otf')  format('opentype');
+  src: url('../fonts/HelveticaNeueLTStd-Bd.ttf')  format('truetype');
+  
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'HelveticaNeueLTStd-Lt';
+  src: url('../fonts/HelveticaNeueLTStd-Lt.eot') format('embedded-opentype');
+  src: url('../fonts/HelveticaNeueLTStd-Lt.ttf')  format('truetype');
+  
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Georgia-Italic';
+  src: url('../fonts/Georgia-Italic.eot') format('embedded-opentype');
+  src: url('../fonts/Georgia-Italic.ttf')  format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'HelveticaNeueLTStd-Hv';
+  src: url('../fonts/HelveticaNeueLTStd-Hv.eot') format('embedded-opentype');
+  src: url('../fonts/HelveticaNeueLTStd-Hv.ttf')  format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
 .about-porphyria-section {
     margin: 60px 0px;
 }
@@ -368,6 +431,19 @@ background-image: url(../images/comment-box.png);
 
 
 /**********MODAL-CSS-START-HERE************/
+.modal {
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: 1050;
+    display: none;
+    overflow: hidden;
+    -webkit-overflow-scrolling: touch;
+    outline: 0;
+    background-color: rgba(68, 0, 153, 0.72);
+}
 .profiles-style {
     padding-right: 24px;
     /* margin: 20px 0px 0 104px; */
@@ -388,7 +464,7 @@ background-image: url(../images/comment-box.png);
 .profiles-style {
    padding-right: 24px;
     margin: 20px 0px 0 0px;
-	height: 56vh;	
+	height: 80vh;	
     overflow-x: hidden;
     overflow-y: scroll;
 }
@@ -407,15 +483,16 @@ background-image: url(../images/comment-box.png);
 }
 .profiles-style p {
     font-size: 16px;
-    font-family: 'HelveticaNeueLTStd75bold';
+    font-family: 'DINEngschriftStd';
     padding-bottom: 18px;
 }
 
 .profiles-style img {
     margin-bottom: 20px;
+	    width: 100%;
 }
 
-
+p.after-read{font-family: 'DINEngschriftStd'; color:#000; font-size:20px;}
 
 
 .profile-close {
