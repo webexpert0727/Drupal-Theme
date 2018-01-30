@@ -1,0 +1,47 @@
+
+.hexagon-section {
+    width: 100%;
+    max-width: 700px;
+    margin: 0 auto;
+}
+.hexagon-inner ul{padding:0px; margin:0px; list-style:none;}
+.hexagon-inner ul li{display:inline-block;}
+
+.hexagon-inner ul li a{font-size:14px; color:#fff;font-family: 'HelveticaNeueLTStd-Lt';    text-transform: uppercase; text-decoration:none;}
+
+
+.hexagon-inner ul li a.aaa { width: 144px; height: 139px; background-image: url(../images/top-left.png); background-repeat: no-repeat; display: block;  padding-top: 47px; text-align: center;    position: relative; right: -22px;bottom: 25px; }
+.hexagon-inner ul li a.aaa:hover{width: 144px; height: 139px; background-image: url(../images/top-left-red.png); background-repeat:no-repeat; display: block;}
+
+.hexagon-inner ul li a.bbb{width: 189px; height: 223px; background-image: url(../images/blue-polygon-1.png); background-repeat:no-repeat; display: block;padding-top: 40px; text-align:center;}
+.hexagon-inner ul li a.bbb:hover{width: 189px; height: 223px; background-image: url(../images/red-polygon.png); background-repeat:no-repeat; display: block;}
+
+.hexagon-inner ul li a.ccc { width: 144px; height: 142px; background-image: url(../images/top-right.png); background-repeat: no-repeat; display: block; /* padding-top: 37px; */ text-align: center; position: relative; bottom: 35px; right: 21px; }
+.hexagon-inner ul li a.ccc:hover{width: 144px; height: 139px; background-image: url(../images/top-right-red.png); background-repeat:no-repeat; display: block;}
+
+ul.hexagon-2 { position: absolute; top: 124px;right: -38px; left: 0; width: 100%; max-width: 700px; margin: 0 auto; }
+
+.hexagon-2 ul li a{font-size:14px; color:#fff;font-family: 'HelveticaNeueLTStd-Lt';    text-transform: uppercase;text-decoration:none;}
+
+.hexagon-inner ul li a.ddd{width: 220px; height: 193px; background-image: url(../images/blue-polygon-3.png); background-repeat:no-repeat; display: block; padding-top: 40px; text-align:center;  position: relative;
+    bottom: 2px; right: 14px;}
+.hexagon-inner ul li a.ddd:hover{width: 220px; height: 193px; background-image: url(../images/red-polygon-3.png); background-repeat:no-repeat; display: block;}
+
+.hexagon-inner ul li a.eee{width: 224px; height: 190px; background-image: url(../images/polygon-4-blue.png); background-repeat:no-repeat; display: block; padding-top: 40px; text-align:center;       position: relative; bottom: -4px;right: 21px;}
+.hexagon-inner ul li a.eee:hover{width: 224px; height: 190px; background-image: url(../images/polygon-4-red.png); background-repeat:no-repeat; display: block;}
+
+
+ul.hexagon-3 { position: absolute; top: 215px;  right: 0; left: 21px; width: 100%; margin: 0 auto; max-width: 700px; }
+
+.hexagon-3 ul li a{font-size:14px; color:#fff;font-family: 'HelveticaNeueLTStd-Lt';    text-transform: uppercase;text-decoration:none;}
+
+.hexagon-inner ul li a.fff { width: 142px; height: 144px; background-image: url(../images/bottom-left.png); background-repeat: no-repeat; display: block; padding-top: 40px; text-align: center; position: relative;     bottom: -64px; right: -3px; }
+.hexagon-inner ul li a.fff:hover{width: 142px; height: 144px; background-image: url(../images/bottom-left-red.png); background-repeat:no-repeat; display: block;}
+
+
+.hexagon-inner ul li a.ggg{width: 190px; height: 224px; background-image: url(../images/polygon-5-blue.png); background-repeat:no-repeat; display: block; padding-top: 40px; text-align:center;       position: relative; bottom: -4px;right: 21px;}
+.hexagon-inner ul li a.ggg:hover{width: 190px; height: 224px; background-image: url(../images/polygon-5-red.png); background-repeat:no-repeat; display: block;}
+
+.hexagon-inner ul li a.hhh { width: 144px; height: 145px; background-image: url(../images/bottom-right.png); background-repeat: no-repeat; display: block; padding-top: 40px; text-align: center; position: relative; bottom: -58px; right: 37px; }
+.hexagon-inner ul li a.hhh:hover{width: 144px; height: 145px; background-image: url(../images/bottom-right-red.png); background-repeat:no-repeat; display: block;}
+

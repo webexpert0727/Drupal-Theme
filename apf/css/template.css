@@ -1,0 +1,539 @@
+
+body{
+    padding:0px; margin:0px;
+    overflow-x: hidden;
+}
+.about-porphyria-section {
+    margin: 60px 0px;
+}
+
+.section-symptoms-treatment
+
+{
+    position: relative;
+}
+
+
+.section-symptoms-treatment:before {
+    width: 234px;
+    content: " ";
+    background-image: url(../images/about-right-polygon.png);
+    position: absolute;
+    right:0;
+    top:-150px;
+    height: 486px;
+    background-repeat: no-repeat;
+}
+.col_symptoms_img
+{
+    padding: 0px;
+}
+.col_symptoms_content
+{
+    margin-right: 50px;
+}
+
+.col-comment-shape {
+       float: right;
+    position: absolute;
+    z-index: 999;
+    right: 50px;
+    top: -45px;
+}
+
+p.shape-content
+{
+
+background-image: url(../images/comment-box.png);
+    text-align: left;
+    width: 220px;
+    height: 190px;
+    /* background: #c5a7e1; */
+    color: #440099;
+    /* border: solid 1px #440099; */
+    padding: 31px;
+    /* border-radius: 40px; */
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+.col-comment-shape a {
+    color: #440099;
+    text-decoration: none;
+    font-size: 17px;
+    margin-right: 20px;
+}
+.col_symptoms_content ul
+{
+    list-style: none;
+    font-family: 'HelveticaNeueLTStd-Lt';
+    margin: 20px 0 ;
+    padding-start: 0px;
+    -webkit-padding-start: 0px;
+}
+
+.col_symptoms_content ul li
+{
+        margin-bottom: 10px;
+}
+
+.aip-inner-member-stories-section.member-stories-tmp1:before {
+    width: 234px;
+    content: " ";
+    background-image: url(../images/about-left-polygon.png);
+    position: absolute;
+    left: 2px;
+    top: 360px;
+    height: 486px;
+    background-repeat: no-repeat;
+}
+
+.member-area-tmp1
+{
+
+}
+
+.member-area-tmp1 .col-comment-shape {
+   float: left;
+    position: absolute;
+    z-index: 999;
+    right: auto;
+    top: -175px;
+    left: -350px;
+}
+.member-area-tmp1 .col-comment-shape a {
+    color: #440099;
+    text-decoration: none;
+    font-size: 17px;
+    margin-right: 0px;
+    margin-left: 48px;
+}
+
+
+.member-area-tmp1 .aip-page-right-bg-polygon-shap:after {
+    width: 234px;
+    content: " ";
+    background-image: url() !important;
+    position: absolute;
+    right: -118px;
+    top: -549px;
+    height: 486px;
+    background-repeat: no-repeat;
+}
+
+.member-area-tmp1 .member-person-area {
+    position: relative;
+    z-index: 2;
+    margin-bottom: 40px;
+}
+.about-porphyria-section.section_tmp1.about-tmp1
+
+{
+    position: relative;
+}
+.about-porphyria-section.section_tmp1.about-tmp1:before
+
+{
+     width: 234px;
+    content: " ";
+    background-image: url(../images/about-right-polygon.png);
+    position: absolute;
+    right: 0;
+    top: -220px;
+    height: 486px;
+    background-repeat: no-repeat;
+}
+
+
+.about-porphyria-section.section_tmp1.about-tmp1 .col-comment-shape {
+    float: right;
+    position: absolute;
+    z-index: 999;
+    right: 50px;
+    top: -204px;
+}
+
+.sign-and-additional-reading-section.reading-section-tmp1 {
+    margin: 100px 0;
+    position: relative;
+}
+
+.sign-and-additional-reading-section.reading-section-tmp1 .right-bg-polygon-shap:after {
+    width: 234px;
+    content: " ";
+    background-image: url() !important;
+    position: absolute;
+    right: 0px;
+    top: 382px;
+    height: 486px;
+    background-repeat: no-repeat;
+}
+
+.sign-and-additional-reading-section.reading-section-tmp1:before {
+    width: 234px;
+    content: " ";
+    background-image: url(../images/about-left-polygon.png);
+    position: absolute;
+    left: 2px;
+    top: 225px;
+    height: 486px;
+    background-repeat: no-repeat;
+}
+
+.sign-and-additional-reading-section.reading-section-tmp1 .sign-and-symptoms-inner {
+    padding-left: 74px;
+    padding-bottom: 33px;
+}
+
+.sign-and-additional-reading-section.reading-section-tmp1 .col-comment-shape {
+    float: left;
+    position: absolute;
+    z-index: 999;
+    left: auto;
+    right: auto;
+    top: 230px;
+}
+
+.sign-and-additional-reading-section.reading-section-tmp1 .col-comment-shape a {
+    color: #440099;
+    text-decoration: none;
+    font-size: 17px;
+    margin-right: 0px;
+    margin-left: 48px;
+}
+.section-video-divider
+{
+   background-image: url(../images/banner-video.jpg);
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+.section-video-divider .video-content 
+{
+    padding: 180px 0;
+    text-align: center;
+    
+}
+.section-video-divider .video-content img
+{
+    
+}
+.section-video-divider .video-content h3 {
+    font-size: 68px;
+    letter-spacing: 2px;
+    color: #ffffff;
+    font-family: 'DINEngschriftStd';
+    text-transform: uppercase;
+}
+.hexagon-part {
+    width: 100%;
+    margin-bottom: 28px;
+}
+@media (max-width:1366px)
+{
+.about-porphyria-section.section_tmp1.about-tmp1 .col-comment-shape {
+       float: right;
+    position: absolute;
+    z-index: 999;
+    right: 5px;
+    top: -133px;
+}
+.about-porphyria-section.section_tmp1.about-tmp1 p.shape-content {
+    background-image: url(../images/comment-box.png);
+    text-align: left;
+    width: 192px;
+    height: 200px;
+    /* background: #c5a7e1; */
+    color: #440099;
+    /* border: solid 1px #440099; */
+    padding: 38px;
+    /* border-radius: 40px; */
+    background-position: center;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    font-size: 12px;
+}
+
+}
+@media (max-width:1024px)
+{
+
+    body{
+    padding:0px; margin:0px;
+    overflow-x: hidden !important;
+}
+   .hexagon-part .hexa {
+    width: 200px;
+    height: 180px;
+}
+.hex2 img
+{
+    width: 100%;
+} 
+.hexagon-part {
+    width: 100%;
+}
+.member-name p a {
+    color: #000000;
+    font-family: 'HelveticaNeueLTStd-Lt';
+    font-size: 16px;
+    padding-left: 0;
+}
+.col_symptoms_content {
+    margin-right: 0px;
+}
+.about-porphyria-text h2 {
+    color: #000;
+    font-size: 42px;
+    font-family: 'DINEngschriftStd';
+    text-transform: uppercase;
+    margin-top: 0px;
+}
+
+.about-porphyria-section.section_tmp1 .col-comment-shape {
+    float: right;
+    position: absolute;
+    z-index: 999;
+    right: 30px !important;
+    top: 0px !important;
+}
+.about-porphyria-section.section_tmp1.about-tmp1 .col-comment-shape {
+   display:none;
+}
+.section-video-divider .video-content {
+    padding: 45px 0;
+    text-align: center;
+}
+.section-video-divider .video-content img {
+    width: 90px;
+}
+.section-video-divider .video-content h3 {
+    font-size: 38px;
+    letter-spacing: 2px;
+    color: #ffffff;
+    font-family: 'DINEngschriftStd';
+    text-transform: uppercase;
+}
+
+}
+
+@media (max-width:812px)
+{
+  .col-comment-shape {
+    float: right;
+    position: absolute;
+    z-index: 999;
+    right: 50px;
+    top: -45px;
+    display: none !important;
+}
+
+
+}
+
+@media (max-width:768px)
+{
+ .about-porphyria-text h2 {
+    color: #000;
+    font-size: 28px !important;
+    font-family: 'DINEngschriftStd';
+    text-transform: uppercase;
+    margin-top: 0px !important;
+}
+.about-porphyria-text h2 span {
+    color: #000;
+    font-size: 38px;
+    font-family: 'DINEngschriftStd';
+    text-transform: uppercase;
+}
+
+.section-symptoms-treatment::before {
+    width: 234px;
+    content: " ";
+    background-image: url(../images/about-right-polygon.png);
+    position: absolute;
+    right: 0px;
+    top: 50px;
+    height: 486px;
+    background-repeat: no-repeat;
+}
+}
+@media (max-width: 767px) and (min-width: 320px)
+{
+.additionl-right-padding {
+    padding-right: 0px;
+    padding-bottom: 10px !important;
+}
+}
+
+
+/**********MODAL-CSS-START-HERE************/
+.profiles-style {
+    padding-right: 24px;
+    /* margin: 20px 0px 0 104px; */
+    height: 64vh;
+    overflow-x: hidden;
+    overflow-y: scroll;
+}
+
+.member-image img {
+    width: 100%;
+}
+.member-profile {
+    width: 50% !important; 
+	
+}
+.padding-0 {padding: 0px;}
+
+.profiles-style {
+   padding-right: 24px;
+    margin: 20px 0px 0 0px;
+	height: 56vh;	
+    overflow-x: hidden;
+    overflow-y: scroll;
+}
+
+
+.profiles-style h2 {
+    font-size: 48px;
+    font-family: 'DINEngschriftStd';
+    padding-bottom: 4px;
+}
+.profiles-style h6 {
+    font-size: 18px;
+   font-family: 'DINEngschriftStd';
+    padding-bottom: 40px;
+    font-weight: 800;
+}
+.profiles-style p {
+    font-size: 16px;
+    font-family: 'HelveticaNeueLTStd75bold';
+    padding-bottom: 18px;
+}
+
+.profiles-style img {
+    margin-bottom: 20px;
+}
+
+
+
+
+.profile-close {
+    height: 38px;
+    width: 38px;
+    text-align: center;
+    color: #ffffff;
+    background-color: #440099 !important;
+    opacity: 1.0;
+    border-radius: 50%;
+    /* padding: 12px !important; */
+    text-align: center;
+    line-height: 0;
+    position: absolute;
+    right: -12px;
+    top: -20px;
+	z-index: 9999999;
+}
+.profile-close:hover {
+    color: #ffffff;
+    background-color: #ff0000 !important;
+	opacity: 1.0;
+}
+@media (max-width: 1366px)
+{
+	.member-image img {
+    width: 270px;
+}
+.member-profile {
+    width: 65% !important;
+}
+
+}
+@media (max-width: 1024px)
+{
+.member-image img {
+    width: 100%;
+}
+}
+
+
+
+
+
+
+@media (max-width: 768px) and (min-width: 498px){
+.profiles-style {
+    padding-right: 24px;
+    margin: 20px 0px 0 0px;
+  height: 30vh;
+    overflow-x: hidden;
+    overflow-y: scroll;
+}
+
+.member-image img {
+    width: 100%;
+}
+}
+@media (max-width: 414px){
+.profiles-style {
+    padding-right: 24px;
+    margin: 20px 0px 0 0px;
+    height: 47vh;
+    overflow-x: hidden;
+    overflow-y: scroll;
+}
+.member-image img {
+    width: 100%;
+}
+.profiles-style h2 {
+    font-size: 23px;
+    font-family: 'DINEngschriftStd';
+    padding-bottom: 4px;
+}
+.profiles-style h6 {
+    font-size: 14px;
+    font-family: 'DINEngschriftStd';
+    padding-bottom: 11px;
+    font-weight: 800;
+}
+.member-profile {
+    top: 50px;
+}
+}
+
+@media (min-width: 375px) and (max-width: 590px){
+.profiles-style {
+    padding-right: 24px;
+    margin: 20px 0px 0 0px;
+    height: 47vh;
+    overflow-x: hidden;
+    overflow-y: scroll;
+}
+.member-image img {
+    width: 100%;
+}
+}
+@media (max-width: 376px){
+.profiles-style {
+    padding-right: 24px;
+    margin: 20px 0px 0 0px;
+    height: 38vh;
+    overflow-x: hidden;
+    overflow-y: scroll;
+}
+.member-image img {
+    width: 100%;
+}
+}
+@media (max-width: 376px){
+.member-profile {
+    width: 90% !important;
+}
+}
+@media (max-width: 414px){
+.member-profile {
+    width: 90% !important;
+}
+}
+
+/**********MODAL-CSS-END-HERE************/

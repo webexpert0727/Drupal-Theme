@@ -1,0 +1,239 @@
+
+
+
+@media (min-width: 320px) and (max-width: 767px){
+	.mobile-ploygon-section {
+    display: block;
+}
+.polygon-banner-area {
+    display: none;
+}	
+	
+.next[data-v-43e93932] {
+    right: 0px !important;
+    text-align: right;
+    color: #385e9d !important;
+}	
+.prev[data-v-43e93932] {
+    left: 0px !important;
+    text-align: left;
+    color: #385e9d !important;
+}	
+	
+}
+
+@media (min-width: 320px) and (max-width: 480px){
+	
+.header-top-button { margin-top: 6px;margin-bottom: 18px;text-align: center;float: none;}
+.search-area { margin-bottom: 12px;}	
+
+.navbar-brand>img {display: block;width: 100%;max-width: 197px;}	
+
+.navbar-toggle{    padding: 4px 10px;}
+.patients-text {text-align: center; margin-top: 10px;}
+.patients-area{    height: 152px;}
+.patients-area-2{  height: 152px;}	
+.patients-area-3{height: 152px;}
+.patients-area-4{ margin-bottom: 10px; height: 152px;}	
+.member-stories-section .carousel-indicators{width: 51%;}
+.member-stories-section .carousel-indicators li{    margin-left: -4px;}
+.member-stories-section .carousel-indicators .active{margin-left: -1px;}
+.member-stories-section .carousel-caption h2{font-size: 17px;}
+.member-stories-section .carousel-caption h2 span{ font-size: 25px;}
+.member-stories-section .carousel-caption h3{    font-size: 10px;    margin-top: 3px;}
+.member-stories-section .carousel-caption p{font-size: 9px;}
+.member-stories-section .carousel-caption{    left: 3%;}
+.member-stories-section .carousel-inner>.item>img {height:196px;}
+p.worst { padding-top: 0px;}
+
+.theme-banner-section .carousel-inner>.item>img { height: 200px;}
+.theme-banner-section .carousel-caption h2{ font-size: 23px;    margin-top: 0px;
+    padding-left: 0px;}
+.theme-banner-section .button-member { padding-left: 0px;}
+
+
+}
+
+
+@media (min-width: 481px) and (max-width: 660px){
+	
+	.header-top-button { margin-top: 6px;margin-bottom: 18px;text-align: center;float: none;}
+.search-area { margin-bottom: 12px;}	
+
+.navbar-brand>img {display: block;width: 100%;    max-width: 297px;}	
+.theme-banner-section .carousel-caption h2{    font-size: 29px;    margin-top: 0px;
+    padding-left: 0px;}
+.navbar-toggle{    padding: 4px 10px;}
+.patients-text {text-align: center; margin-top: 10px;}
+
+.patients-area{    height: 152px;}
+.patients-area-2{  height: 152px;}	
+.patients-area-3{height: 152px;}
+.patients-area-4{ margin-bottom: 10px; height: 152px;}	
+.member-stories-section .carousel-indicators li{    margin-left: 5px;}
+.member-stories-section .carousel-caption h2{font-size: 25px;}	
+.member-stories-section .carousel-caption h2 span{font-size: 31px;}
+.member-stories-section .carousel-caption h3{margin-top: 0px;font-size: 16px;}	
+.member-stories-section .carousel-caption p{font-size: 11px;}
+.member-stories-section .carousel-inner>.item>img {height:196px;width: 100%;}
+.member-stories-section .carousel-caption {right: 20%;left: 8%; padding-bottom: 30px; top: -9%;}
+.button-member { padding-top: 0;}
+}
+
+@media (min-width: 661px) and (max-width: 767px){
+		
+.header-top-button { margin-top: 6px;margin-bottom: 18px;text-align: center;float: none;}
+.search-area { margin-bottom: 12px;}	
+
+.navbar-brand>img {display: block;width: 100%;    max-width: 297px;}	
+.theme-banner-section .carousel-caption h2{    font-size: 41px;    margin-top: 0px;
+    padding-left:0px;}
+.theme-banner-section .button-member { padding-left: 0px;}
+.navbar-toggle{    padding: 4px 10px;}
+.patients-text {text-align: center; margin-top: 10px;}
+
+
+.patients-area{    height: 152px;}
+.patients-area-2{  height: 152px;}	
+.patients-area-3{height: 152px;}
+.patients-area-4{ margin-bottom: 10px; height: 152px;}	
+.member-stories-section .carousel-indicators li{    margin-left: 12px;}
+.member-stories-section .carousel-caption{    right: 1%;left: 44%; padding-bottom: 30px;top: 1%;}
+.member-stories-section .carousel-caption h2{    font-size: 23px;}	
+.member-stories-section .carousel-caption h2 span {font-size: 33px;}
+.member-stories-section .carousel-caption h3{margin-top: 5px;}
+p.worst{padding-top: 0px;}
+.member-stories-section .carousel-caption p{    font-size: 12px;}
+.button-member {padding-top: 0px;}
+	
+}
+
+
+@media (min-width: 768px) and (max-width: 991px){
+
+.header-top-button ul li a{float:left;}
+.header-social-icon ul li a { text-decoration: none; margin-bottom: -1px;float: left;}
+.navbar-default {background-color: transparent; border-color: transparent; float: left;margin-bottom: 0px;    width: 100%;}
+.member-stories-section .carousel-caption h2{    font-size: 31px;}
+.member-stories-section .carousel-caption h2 span{font-size: 41px;}
+.member-stories-section .carousel-caption h3{    font-size: 30px;margin-top: 0px;}
+p.worst {padding-top: 6px;}
+.member-stories-section .carousel-caption {right: 2%;left: 44%; padding-bottom: 30px;top: -5%;}
+.button-member { padding-top: 5px;}
+.theme-banner-section .carousel-caption h2{ padding-left: 0px; margin-top: 0px;    font-size: 24px;}
+.theme-banner-section .button-member {padding-left: 0px;}
+.theme-banner-section .carousel-inner>.item>img { height: 486px;}
+.patients-text h2{    font-size: 16px;}
+ ..header-social-icon ul li{   padding: 0px 2px;}
+}
+
+
+@media (min-width: 992px) and (max-width: 1199px){
+
+.header-top-button ul li a{float:left;padding: 10px 12px;}
+.header-social-icon ul li a { text-decoration: none; margin-bottom: -1px;float: left;}
+.navbar-default {background-color: transparent; border-color: transparent; float: left;margin-bottom: 0px;    width: 100%;}
+.header-social-icon ul li{    padding: 0px 1px;}
+.member-stories-section .carousel-caption {right: 1%;}
+.member-stories-section .carousel-caption h2{    font-size: 35px;}
+.member-stories-section .carousel-caption h2 span { font-size: 49px;}
+.member-stories-section .carousel-caption h3{    margin-top: 13px;}
+.theme-banner-section .carousel-caption h2{    font-size: 47px;}
+.theme-banner-section .carousel-inner>.item>img { height: 486px;}
+
+}
+@media (min-width: 1200px) and (max-width: 1399px){
+	
+	.header-social-icon ul li{padding: 0px 8px;}
+}
+
+
+
+@media (min-width: 1400px) and (max-width: 1472px){
+	
+	ul.hexagon-3 {
+    left: 26px;
+}
+}
+@media (min-width: 1473px) and (max-width: 2500px){
+	
+	ul.hexagon-3{left: 41px;}
+	
+}
+
+
+/********************TOGGEL-RSPONSIVE**********************/
+@media (max-width: 3000px) {
+  .navbar-header {
+      float: none;
+  }
+  .navbar-left,.navbar-right {
+      float: none !important;
+  }
+  .navbar-toggle {
+      display: block;
+  }
+  .navbar-collapse {
+      border-top: 1px solid transparent;
+      box-shadow: inset 0 1px 0 rgba(255,255,255,0.1);
+  }
+  .navbar-fixed-top {
+      top: 0;
+      border-width: 0 0 1px;
+  }
+  .navbar-collapse.collapse {
+      display: none!important;
+  }
+ .navbar-nav {
+    float: none!important;
+    margin-top: 7.5px;
+    background-color: #e7e7e7;
+}
+  .navbar-nav>li {
+      float: none;
+  }
+  .navbar-nav>li>a {
+      padding-top: 10px;
+      padding-bottom: 10px;
+  }
+  .collapse.in{
+      display:block !important;
+  }
+}
+
+
+
+/*******************ABOUT-PORPHYRIA-RESPONSIVE-START***************************/
+
+
+@media (min-width: 320px) and (max-width: 767px){
+	.sign-and-symptoms-inner { padding-left: 15px; padding-bottom: 33px;}
+	.additionl-right-padding {padding-right: 0px; padding-bottom: 262px;}
+}
+
+/*******************ABOUT-PORPHYRIA-RESPONSIVE-END-HERE***************************/
+
+
+
+
+/*******************AIP-INNER-DISEASE-PRE-CLICK-RESPONSIVE-START ***************************/
+
+
+@media (min-width: 320px) and (max-width: 767px){
+	.sign-and-symptoms-inner { padding-left: 15px; padding-bottom: 33px;}
+	.additionl-right-padding {padding-right: 0px; padding-bottom: 262px;}
+	.icon-slider-section .col-md-2 { width: 100%;}
+	.aip-inner-member-stories-section:before{display:none;}
+	.aip-page-right-bg-polygon-shap:after{display:none;}
+	.visit-button{margin-bottom: 30px;}
+	.icon-slider-section .carousel-indicators{    bottom: -84px;}
+	.featured-width-col {
+    width: 100%;
+    margin-bottom: 0px;
+}
+}
+
+/*******************AIP-INNER-DISEASE-PRE-CLICK-RESPONSIVE-END***************************/
+
+
+
